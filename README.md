@@ -1,21 +1,20 @@
-### Hi there 👋
+Olá, eu sou o Gerson!👋
 
-<!--
-**gersonpn/gersonpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: ele/dele
--->
+Graduando em Engenharia da Computação pelo Instituto Federal de Mato Grosso do Sul (IFMS) - Campus Três Lagoas, com experiência no desenvolvimento de pesquisas científicas na área da agricultura com ferramentas técnológicas. 
+  
 
+  
+  
+  
+  
 
 
 <div align="center">
   <a href="https://github.com/gersonpni">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gersonpn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonpn&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonpn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block" align = "center"><br>
@@ -26,4 +25,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
+  
   
