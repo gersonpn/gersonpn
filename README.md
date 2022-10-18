@@ -4,15 +4,16 @@ Olá, eu sou o Gerson!👋
 
 Graduando em Engenharia de Computação pelo Instituto Federal de Mato Grosso do Sul (IFMS) - Campus Três Lagoas, com experiência no desenvolvimento de pesquisas científicas na área da agricultura com ferramentas técnológicas. 
   
+  
+  
 
   
-  
-  
+ 
   
 
 
 <div align="center">
-  <a href="https://github.com/gersonpni">
+  <a href="https://github.com/gersonpn">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gersonpn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonpn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
