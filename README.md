@@ -2,7 +2,7 @@ Olá, eu sou o Gerson!👋
 
 
 
-Graduando em Engenharia de Computação pelo Instituto Federal de Mato Grosso do Sul (IFMS) - Campus Três Lagoas, com experiência no desenvolvimento de pesquisas científicas na área da agricultura com ferramentas técnológicas. 
+Graduando em Engenharia de Computação pelo Instituto Federal de Mato Grosso do Sul (IFMS) - Campus Três Lagoas, com experiência no desenvolvimento de pesquisas científicas na área da agricultura utilizando ferramentas técnológicas. 
   
   
   
