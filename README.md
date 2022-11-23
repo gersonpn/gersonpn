@@ -1,13 +1,11 @@
-Olá, eu sou o Gerson!👋
+Olá, eu sou o Gerson!!
 
 
 
 Graduando em Engenharia de Computação pelo Instituto Federal de Mato Grosso do Sul (IFMS) - Campus Três Lagoas, com experiência no desenvolvimento de pesquisas científicas.
   
-  
 
-  
- 
+
   
 
 
