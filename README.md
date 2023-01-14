@@ -3,18 +3,6 @@
 
 
 Graduando em Engenharia de Computação pelo Instituto Federal de Mato Grosso do Sul (IFMS) - Campus Três Lagoas, com experiência no desenvolvimento de pesquisas científicas.
-  
-
-
-  
-
- <div align="center">
-  <a href="https://github.com/gersonpn">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gersonpna&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonpn&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-<div style="display: inline_block"><br>
- 
 
   
   <div style="display: inline_block" align = "center"><br>
